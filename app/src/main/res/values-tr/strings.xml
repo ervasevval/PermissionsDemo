@@ -1,0 +1,11 @@
+
+<resources>
+    <string name="app_name">İzin Demosu</string>
+    <string name="title">SMS Gönder ve Ara</string>
+    <string name="phone_hint">Telefon numarası</string>
+    <string name="message_hint">Mesaj</string>
+    <string name="send_sms">SMS Gönder</string>
+    <string name="make_call">Ara</string>
+    <string name="sms_permission_error">SMS izni reddedildi</string>
+    <string name="call_permission_error">Arama izni reddedildi</string>
+</resources>
